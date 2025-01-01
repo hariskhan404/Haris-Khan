@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Haris Khan</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+<h3 align="center">A passionate Fullstack developer from Pakistan</h3>
 <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" align="right" alt="Coding image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariskhan404&label=Profile%20views&color=0e75b6&style=flat" alt="hariskhan404"/> </p>
 
 - 🔭 I’m currently working on **[Qatar Datamation System APP-backend](#)**
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **Entity Schema**
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **FullStack Development**
 
 - 📫 How to reach me **hariskhan.se.404@gmail.com**
 
