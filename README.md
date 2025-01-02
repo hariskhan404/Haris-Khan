@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haris Khan</h1>
+<h1 align="center">Hi 👋, I'm Haris Khan </h1>
 <h3 align="center">A passionate Fullstack developer from Pakistan</h3>
 <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" align="right" alt="Coding image" />
 
